@@ -1,0 +1,2 @@
+class SportsPerson < ApplicationRecord
+end
